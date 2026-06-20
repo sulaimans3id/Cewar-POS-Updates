@@ -1,5 +1,5 @@
 {
-  "version": "7.4",
-  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v7.4/cewar_pos_modern_v7_4.zip",
-  "notes": "New Sale focus and suggestions fixes, Delete key support, automatic paid/discount handling, editable invoice lines, cashier dashboard privacy, and redesigned purchases search."
+  "version": "8.0.1",
+  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v8.0.1/cewar_pos_modern_v8_0_1.zip",
+  "notes": "Allow editing quantity and unit price in New Sale invoice lines."
 }
