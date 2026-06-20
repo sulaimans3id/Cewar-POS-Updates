@@ -1,5 +1,5 @@
 {
-  "version": "8.0.1",
-  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v8.0.1/cewar_pos_modern_v8_0_1.zip",
-  "notes": "Allow editing quantity and unit price in New Sale invoice lines."
+  "version": "8.0.2",
+  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v8.0.2/cewar_pos_modern_v8_0_2.zip",
+  "notes": "Fix New Sale paid amount automatic discount and save invoice total as paid amount."
 }
