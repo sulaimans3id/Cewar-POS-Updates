@@ -1,5 +1,5 @@
 {
-  "version": "8.0.4",
-  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v8.0.4/cewar_pos_modern_v8_0_4.zip",
-  "notes": "Adjust XP-365B 30x40mm barcode label: product name above barcode and barcode number below."
+  "version": "8.0.5",
+  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v8.0.5/cewar_pos_modern_v8_0_5.zip",
+  "notes": "Fix XP-365B 40x30mm barcode label layout."
 }
