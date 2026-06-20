@@ -1,5 +1,5 @@
 {
-  "version": "7.3",
-  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v7.3/cewar_pos_modern_v7_3.zip",
-  "notes": "Debts deletion, invoice details and 80mm printing, wholesale mode, report profit fix, and stricter stock permissions."
+  "version": "7.4",
+  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v7.4/cewar_pos_modern_v7_4.zip",
+  "notes": "New Sale focus and suggestions fixes, Delete key support, automatic paid/discount handling, editable invoice lines, cashier dashboard privacy, and redesigned purchases search."
 }
