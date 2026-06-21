@@ -1,5 +1,5 @@
 {
-  "version": "8.0.7",
-  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v8.0.7/cewar_pos_modern_v8_0_7.zip",
-  "notes": "Fix New Sale calculations, wholesale totals, paid/discount behavior, and clear discount when cart is empty."
+  "version": "8.0.8",
+  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v8.0.8/cewar_pos_modern_v8_0_8.zip",
+  "notes": "Fix New Sale paid box typing, automatic discount display, and remove profit preview."
 }
