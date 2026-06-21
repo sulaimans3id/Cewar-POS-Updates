@@ -1,5 +1,5 @@
 {
-  "version": "8.0.6",
-  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v8.0.6/cewar_pos_modern_v8_0_6.zip",
-  "notes": "Use old Zahra POS XP-365B TSPL barcode printing setup."
+  "version": "8.0.7",
+  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v8.0.7/cewar_pos_modern_v8_0_7.zip",
+  "notes": "Fix New Sale calculations, wholesale totals, paid/discount behavior, and clear discount when cart is empty."
 }
