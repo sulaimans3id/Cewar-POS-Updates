@@ -1,5 +1,5 @@
 {
-  "version": "8.1.1",
-  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v8.1.1/CewarPOS_v8.1.1.zip",
-  "notes": "Added Manage Categories window with Add, Edit, and Delete for Inventory and Maintenance categories."
+  "version": "8.1.4",
+  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v8.1.4/CewarPOS_v8.1.4.zip",
+  "notes": "Cleaner Inventory and Maintenance stock layout: removed Tools button, compact controls, and larger stock table area."
 }
