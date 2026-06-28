@@ -1,4 +1,5 @@
 {
-  "version": "8.1.14",
-  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v8.1.14/CewarPOS_v8.1.14.zip"
+  "version": "9.1.0",
+  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v9.1.0/CewarPOS_v9.1.0.zip",
+  "notes": "v9.1.0 adds Google Drive folder cloud backup."
 }
