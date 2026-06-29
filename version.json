@@ -1,5 +1,7 @@
 {
   "version": "9.3.10",
-  "download_url": "PUT_YOUR_GITHUB_RELEASE_ZIP_URL_HERE",
-  "notes": "Finance Center privacy + Reports remaining profit fix."
+  "tag": "v9.3.10",
+  "title": "Cewar POS v9.3.10 – Finance & Reports Synchronization",
+  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v9.3.10/cewar_pos_modern_v9_3_10.zip",
+  "notes": "Finance Center operations are separated from Cash Drawer. Reports now deduct salary and profit withdrawal so Remaining Profit matches Finance Center."
 }
