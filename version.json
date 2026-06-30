@@ -1,7 +1,4 @@
 {
-  "version": "9.3.10",
-  "tag": "v9.3.10",
-  "title": "Cewar POS v9.3.10 – Finance & Reports Synchronization",
-  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v9.3.10/CewarPOS_v9.3.10.zip",
-  "notes": "Finance Center operations are separated from Cash Drawer. Reports now deduct salary and profit withdrawal so Remaining Profit matches Finance Center."
+  "version": "9.2.3",
+  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v9.2.3/CewarPOS_v9.2.3.zip"
 }
