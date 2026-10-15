@@ -1,4 +1,5 @@
 {
-  "version": "9.3.50",
-  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v9.3.50/CewarPOS_v9.3.50.zip"
+  "version": "9.3.52",
+  "download_url": "https://github.com/sulaimans3id/Cewar-POS-Updates/releases/download/v9.3.52/CewarPOS_v9.3.52.zip",
+  "notes": "Fixed sale and purchase invoice Excel export prices."
 }
